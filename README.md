@@ -29,7 +29,7 @@ Learn how to create basic interactive prototypes in Figma by linking different f
    - Click the play button in the top right to preview the prototype and interact with it.
    
 6. **Submit Your Work:**
-   - After completing the prototype, share the Figma link with your instructor.
+   - After completing the prototype, save a shared link and will presented on friday meeting..
 
 ### **Video Reference:**
 To guide you through the steps of basic prototyping in Figma, watch this video tutorial:
